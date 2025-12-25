@@ -357,11 +357,12 @@ body {
 
 /* banner_service part start  */
 .banner_service {
-  background: rgba(227, 235, 246, 0.692) url(../images/abs-bg5.png);
+  background: url(../images/abs-bg5.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   padding: 100px 0px;
+  background-color: rgb(227, 235, 246);
 }
 .banner_service::before {
   /* position: absolute;
